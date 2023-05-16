@@ -9,3 +9,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git helloworld https://github.com/fw876/helloworld
 src-git nas https://github.com/linkease/nas-packages.git
 src-git nas_luci https://github.com/linkease/nas-packages-luci.git
+src-git small8 https://github.com/kenzok8/small-package
