@@ -6,4 +6,4 @@ src-git telephony https://github.com/openwrt/telephony.git
 #src-git-full targets https://github.com/openwrt/targets.git
 #src-git-full oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
-src-git nss_packages https://github.com/JiaY-shi/nss-packages.git;k6.6
+src-git nss_packages https://github.com/qosmio/nss-packages.git
